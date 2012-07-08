@@ -1,7 +1,7 @@
 local MSQ = LibStub("Masque", true)
 if not MSQ then return end
 
--- Vitality
+-- Vista
 MSQ:AddSkin("Vista", {
 	Author = "Excitor",
 	Version = "4.3.4",
@@ -90,8 +90,8 @@ MSQ:AddSkin("Vista", {
 	Count = {
 		Width = 42,
 		Height = 10,
-		OffsetX = -2,
-		OffsetY = -10,
+		OffsetX = 0,
+		OffsetY = 5,
 	},
 	Name = {
 		Width = 42,

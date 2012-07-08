@@ -1,0 +1,8 @@
+----
+**1.1**
+* Fixed count positioning
+* Added Bagnon support
+----
+**1.0**
+*Initial release
+
