@@ -1,0 +1,9 @@
+## Interface: 40300
+## Title: Masque|c0000FF00:|r|cffa335ee Vista|r 
+## Version: v4.3.4
+## Notes: The old Vista skin updated for Masque.
+## Author: Excitor (Defias Brotherhood EU)
+## Credits:Jiyll who created the original skin years ago.
+## Dependencies: Masque
+
+Skins.lua
